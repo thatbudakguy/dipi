@@ -9,5 +9,8 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-pugme",
+  "hubot-plusplus",
+  "hubot-haiku",
+  "hubot-espn",
   "hubot-aws"
 ]
